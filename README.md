@@ -6,18 +6,16 @@ __Overview__ The automatic analysis and understanding of images and videos, a fi
 
 __Course content__ 
 
-Introduction and Overview: Course Overview and Motivation; Introduction to Image Formation, Capture and Representation; Linear Filtering, Correlation, Convolution (3 lectures)
-Visual Features and Representations: Edge, Blobs, Corner Detection; Scale Space and Scale Selection; SIFT, SURF; HoG, LBP, etc. (3 lectures, 1 lab)
-Visual Matching: Bag-of-words, VLAD; RANSAC, Hough transform; Pyramid Matching; Optical Flow (3 lectures, 1 lab)
-Convolutional Neural Networks (CNNs): Introduction to CNNs; Evolution of CNN Architectures: AlexNet, ZFNet, VGG, InceptionNets, ResNets, DenseNets (4 lectures, 1 lab)
-CNNs for Recognition, Verification, Detection, Segmentation: CNNs for Recognition and Verification (Siamese Networks, Triplet Loss, Ranking Loss); CNNs for Detection: R-CNN, Fast R-CNN, YOLO; CNNs for Segmentation: FCN, SegNet, U-Net, Mask-RCNN (9 lectures, 2 labs)
-Recurrent Neural Networks (RNNs): Review of RNNs; CNN + RNN Models for Video Understanding: Spatio-temporal Models, Action/Activity Recognition (4 lectures, 1 lab)
-Attention Models: Introduction to Attention Models in Vision; Vision and Language: Image Captioning, Visual QA, Visual Dialog; Spatial 	Transformers; Transformer Networks (5 lectures, 2 labs)
-Deep Generative Models: Review of (Popular) Deep Generative Models: GANs, VAEs; Other Generative Models: PixelRNNs, NADE, Normalizing Flows, etc (4 lectures, 1 lab)
-Variants and Applications of Generative Models in Vision: Applications: Image Editing, Inpainting, Superresolution, Variants: CycleGANs, Progressive GANs, StackGANs, Pix2Pix, etc (5 lectures, 2 labs)
-Recent Trends: Zero-shot, One-shot, Few-shot Learning; Self-supervised Learning; Reinforcement Learning in Vision (3 lectures, 1 lab)
-
-
+* Introduction and Overview: Course Overview and Motivation; Introduction to Image Formation, Capture and Representation; Linear Filtering, Correlation, Convolution (3 lectures)
+* Visual Features and Representations: Edge, Blobs, Corner Detection; Scale Space and Scale Selection; SIFT, SURF; HoG, LBP, etc. (3 lectures, 1 lab)
+* Visual Matching: Bag-of-words, VLAD; RANSAC, Hough transform; Pyramid Matching; Optical Flow (3 lectures, 1 lab)
+* Convolutional Neural Networks (CNNs): Introduction to CNNs; Evolution of CNN Architectures: AlexNet, ZFNet, VGG, InceptionNets, ResNets, DenseNets (4 lectures, 1 lab)
+* CNNs for Recognition, Verification, Detection, Segmentation: CNNs for Recognition and Verification (Siamese Networks, Triplet Loss, Ranking Loss); CNNs for Detection: R-CNN, Fast R-CNN, YOLO; CNNs for Segmentation: FCN, SegNet, U-Net, Mask-RCNN (9 lectures, 2 labs)
+* Recurrent Neural Networks (RNNs): Review of RNNs; CNN + RNN Models for Video Understanding: Spatio-temporal Models, Action/Activity Recognition (4 lectures, 1 lab)
+* Attention Models: Introduction to Attention Models in Vision; Vision and Language: Image Captioning, Visual QA, Visual Dialog; Spatial 	Transformers; Transformer Networks (5 lectures, 2 labs)
+* Deep Generative Models: Review of (Popular) Deep Generative Models: GANs, VAEs; Other Generative Models: PixelRNNs, NADE, Normalizing Flows, etc (4 lectures, 1 lab)
+* Variants and Applications of Generative Models in Vision: Applications: Image Editing, Inpainting, Superresolution, Variants: CycleGANs, Progressive GANs, StackGANs, Pix2Pix, etc (5 lectures, 2 labs)
+* Recent Trends: Zero-shot, One-shot, Few-shot Learning; Self-supervised Learning; Reinforcement Learning in Vision (3 lectures, 1 lab)
 
 
 __Textbooks__
