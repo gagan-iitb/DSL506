@@ -17,6 +17,11 @@ __Course content__
 * Variants and Applications of Generative Models in Vision: Applications: Image Editing, Inpainting, Superresolution, Variants: CycleGANs, Progressive GANs, StackGANs, Pix2Pix, etc (5 lectures, 2 labs)
 * Recent Trends: Zero-shot, One-shot, Few-shot Learning; Self-supervised Learning; Reinforcement Learning in Vision (3 lectures, 1 lab)
 
+__Application Areas___
+
+Industrial Activity recognition, PPE (personal protective equipment) detection, Machine failure analysis, Vibration analysis, Spark detection etc. 
+Medical Image analysis : Opthalmology, Dermatology, Dentistry, Radiology
+
 
 __Textbooks__
 - https://www.bishopbook.com/
