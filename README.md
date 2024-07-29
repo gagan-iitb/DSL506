@@ -23,6 +23,13 @@ Industrial Activity recognition, PPE (personal protective equipment) detection, 
 Medical Image analysis : Opthalmology, Dermatology, Dentistry, Radiology
 
 
+__Grading Scheme__
+
+* Two tierce exams - 45% 
+* Assignment (two) - 20%  
+* Paper Presentation - 10%
+* Project+Viva - 25%
+
 __Textbooks__
 - https://www.bishopbook.com/
 - Richard Szeliski, Computer Vision: Algorithms and Applications, 2010.
