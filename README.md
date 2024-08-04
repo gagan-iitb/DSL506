@@ -37,4 +37,16 @@ __Textbooks__
 - Yoshua Bengio, Learning Deep Architectures for AI, 2009
 - Simon Prince, Computer Vision: Models, Learning, and Inference, 2012.
 - David Forsyth, Jean Ponce, Computer Vision: A Modern Approach, 2002.
-- 
+
+__Tutorials__
+* PyTorch University of Amesterdam: https://uvadlc-notebooks.readthedocs.io/en/latest/
+* Deep Mind Lecture series: https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF
+* Energy Based Models -- Deep Learning lectures: https://atcold.github.io/NYU-DLSP21/
+* Computational Creativity -- https://richradke.github.io/computationalcreativity/
+* Image processing -- https://sites.ecse.rpi.edu/~rjradke/improccourse.html
+* 
+
+
+
+
+
