@@ -46,7 +46,8 @@ __Tutorials__
 * Image processing -- https://sites.ecse.rpi.edu/~rjradke/improccourse.html
 * 
 
-
+__Reading List__
+Med-Gemini: "Capabilities of Gemini Models in Medicine" https://arxiv.org/pdf/2404.18416
 
 
 
