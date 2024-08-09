@@ -48,35 +48,35 @@ __Tutorials__
 
 __Reading List__
 __Medical Imaging__
-Med-Gemini: "Capabilities of Gemini Models in Medicine" https://arxiv.org/pdf/2404.18416
+* Med-Gemini: "Capabilities of Gemini Models in Medicine" https://arxiv.org/pdf/2404.18416
 
 __Vision Language Pre-training__
-Survey Paper: https://arxiv.org/pdf/2210.09263
+* Survey Paper: https://arxiv.org/pdf/2210.09263
 
 __Deep Learning for Image/Video Restoration and Super-resolution__
-Survey Paper: 
+* Survey Paper: 
 
 __Semantic Image Segmentation__
-Survey Paper: https://arxiv.org/pdf/2302.06378
-Object Segmentation: https://arxiv.org/pdf/2301.07499
+* Survey Paper: https://arxiv.org/pdf/2302.06378
+* Object Segmentation: https://arxiv.org/pdf/2301.07499
 
 __Video Summarization__
-Survey Paper: https://arxiv.org/pdf/2210.11707
+* Survey Paper: https://arxiv.org/pdf/2210.11707
 
 __Multi-modal Foundation Models__
-Multimodal Foundation Models: From Specialists to General-Purpose Assistants: https://arxiv.org/abs/2309.10020
+* Multimodal Foundation Models: From Specialists to General-Purpose Assistants: https://arxiv.org/abs/2309.10020
 
 __Computational Photography__
-ImageAlignmentAndStitching survey(2006): https://courses.cs.washington.edu/courses/cse576/05sp/papers/MSR-TR-2004-92.pdf
-Reading List: https://github.com/visionxiang/awesome-computational-photography
+* ImageAlignmentAndStitching survey(2006): https://courses.cs.washington.edu/courses/cse576/05sp/papers/MSR-TR-2004-92.pdf
+* Reading List: https://github.com/visionxiang/awesome-computational-photography
 
 
-
-Camera Models and Fundamental Concepts Used in Geometric Computer Vision: https://inria.hal.science/inria-00590269/file/sturm-ftcgv-2011.pdf
-Sparse Modeling for Image and Vision Processing: https://arxiv.org/abs/1411.3230
-A Survey of Unsupervised Domain Adaptation for Visual Recognition: https://arxiv.org/abs/2112.06745
-Computer Vision for Autonomous Vehicles: Problems, Datasets and State of the Art: https://arxiv.org/abs/1704.05519
-Towards Better User Studies in Computer Graphics and Vision: https://arxiv.org/abs/2206.11461
+__Assorted__
+* Camera Models and Fundamental Concepts Used in Geometric Computer Vision: https://inria.hal.science/inria-00590269/file/sturm-ftcgv-2011.pdf
+* Sparse Modeling for Image and Vision Processing: https://arxiv.org/abs/1411.3230
+* A Survey of Unsupervised Domain Adaptation for Visual Recognition: https://arxiv.org/abs/2112.06745
+* Computer Vision for Autonomous Vehicles: Problems, Datasets and State of the Art: https://arxiv.org/abs/1704.05519
+* Towards Better User Studies in Computer Graphics and Vision: https://arxiv.org/abs/2206.11461
 
 
 
