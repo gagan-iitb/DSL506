@@ -46,6 +46,10 @@ __Tutorials__
 * Image processing -- https://sites.ecse.rpi.edu/~rjradke/improccourse.html
 * 
 
+__Bibliography__ 
+* http://surveys.visionbib.com/index.html
+* 
+
 __Reading List__
 __Medical Imaging__
 * Med-Gemini: "Capabilities of Gemini Models in Medicine" https://arxiv.org/pdf/2404.18416
@@ -79,6 +83,11 @@ __Assorted__
 * Towards Better User Studies in Computer Graphics and Vision: https://arxiv.org/abs/2206.11461
 
 
+__CVPR 2024__
+VicTR: Video-conditioned Text Representations for Activity Recognition: https://arxiv.org/pdf/2304.02560
+Action-slot: Visual Action-centric Representations for Atomic Activity Recognition in Traffic Scenes: https://hcis-lab.github.io/Action-slot/
+Learning Group Activity Features Through Person Attribute Prediction: https://arxiv.org/pdf/2403.02753
+[Group Activity](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Bi-Causal_Group_Activity_Recognition_via_Bidirectional_Causality_CVPR_2024_paper.pdf)
 
 
 
