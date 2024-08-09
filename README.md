@@ -84,10 +84,10 @@ __Assorted__
 
 
 __CVPR 2024__
-VicTR: Video-conditioned Text Representations for Activity Recognition: https://arxiv.org/pdf/2304.02560
-Action-slot: Visual Action-centric Representations for Atomic Activity Recognition in Traffic Scenes: https://hcis-lab.github.io/Action-slot/
-Learning Group Activity Features Through Person Attribute Prediction: https://arxiv.org/pdf/2403.02753
-[Group Activity](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Bi-Causal_Group_Activity_Recognition_via_Bidirectional_Causality_CVPR_2024_paper.pdf)
+* VicTR: Video-conditioned Text Representations for Activity Recognition: https://arxiv.org/pdf/2304.02560
+* Action-slot: Visual Action-centric Representations for Atomic Activity Recognition in Traffic Scenes: https://hcis-lab.github.io/Action-slot/
+* Learning Group Activity Features Through Person Attribute Prediction: https://arxiv.org/pdf/2403.02753
+* [Group Activity](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Bi-Causal_Group_Activity_Recognition_via_Bidirectional_Causality_CVPR_2024_paper.pdf)
 
 
 
