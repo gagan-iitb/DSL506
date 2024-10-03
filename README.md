@@ -44,7 +44,26 @@ __Tutorials__
 * Energy Based Models -- Deep Learning lectures: https://atcold.github.io/NYU-DLSP21/
 * Computational Creativity -- https://richradke.github.io/computationalcreativity/
 * Image processing -- https://sites.ecse.rpi.edu/~rjradke/improccourse.html
-* 
+
+__Datasets__
+ImageNet: Large-scale image classification dataset
+VQA: Visual Question Answering dataset
+Microsoft COCO: Large-scale image detection, segmentation, and captioning dataset
+LSMDC: Large-Scale Movie Description Dataset and challenge
+Madlibs: Visual fil-in-the-blank dataset
+ReferIt: Dataset of visual referring expressions
+VisDial: Visual dialog dataset
+ActivityNet Captions: A large-scale benchmark for dense-captioning of events in video
+VisualGenome: A large-scale image-language dataset that includes region captions, relationships, visual questions, attributes and more
+VIST: VIsual StroyTelling dataset
+CLEVR: Compositional Language and Elementary Visual Reasoning dataset
+COMICS: Dataset of annotated comics with visual panels and dialog transcriptions
+Toronto COCO-QA: Toronto question answering dataset
+Text-to-image coreference: multi-sentence descriptions of RGB-D scenes, annotations for image-to-text and text-to-text coreference
+MovieQA: automatic story comprehension dataset from both video and text.
+Charades Dataset: Large-scale video dataset for activity recognition and commonsense reasoning
+imSitu: Situational recognition datasets with annotations of main activities, participating actors, objects, substances, and locations and the roles these participants play in the activity.
+MIT-SoundNet: Flickr video dataset for cross-modal recognition, including audio and video.
 
 __Bibliography__ 
 * http://surveys.visionbib.com/index.html
