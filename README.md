@@ -14,9 +14,8 @@ __Course content__
 * Recurrent Neural Networks (RNNs): Review of RNNs; CNN + RNN Models for Video Understanding: Spatio-temporal Models, Action/Activity Recognition (4 lectures, 1 lab)
 * Attention Models: Introduction to Attention Models in Vision; Vision and Language: Image Captioning, Visual QA, Visual Dialog; Spatial 	Transformers; Transformer Networks (5 lectures, 2 labs)
 * Deep Generative Models: Review of (Popular) Deep Generative Models: GANs, VAEs; Other Generative Models: PixelRNNs, NADE, Normalizing Flows, etc (4 lectures, 1 lab)
-* Variants and Applications of Generative Models in Vision: Applications: Image Editing, Inpainting, Superresolution, Variants: CycleGANs, Progressive GANs, StackGANs, Pix2Pix, etc (5 lectures, 2 labs)
-* Recent Trends: Zero-shot, One-shot, Few-shot Learning; Self-supervised Learning; Reinforcement Learning in Vision (3 lectures, 1 lab)
-
+* Multi-modal Learning: Representation, Alignment and Generation of Multi-modal data (8 lectures, 2 lab)
+  
 __Application Areas___
 
 Industrial Activity recognition, PPE (personal protective equipment) detection, Machine failure analysis, Vibration analysis, Spark detection etc. 
